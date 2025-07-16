@@ -1,4 +1,4 @@
-# 🚀 DevOps Zero to Hero – Week 1 Summary
+# 🚀 DevOps Zero to Hero – Week 1 Summary.
 
 Following the [DevOps Zero to Hero](https://youtu.be/Ou9j73aWgyE?si=ROBRCQyVPhLKH9cZ) YouTube series by **Abhishek Veeramalla**. This document tracks my daily learning and practice.
 
@@ -9,7 +9,6 @@ Following the [DevOps Zero to Hero](https://youtu.be/Ou9j73aWgyE?si=ROBRCQyVPhLK
 - ✅ Learned about SDLC Phases
 - ✅ Hands on Jira for creating epic and story
 - ✅ Learned difference between physical machines and virtual machines
-
 ---
 
 > ✅ Pushing daily progress to GitHub. Documenting everything for easy recall & sharing!
