@@ -4,11 +4,18 @@ Following the [DevOps Zero to Hero](https://youtu.be/Ou9j73aWgyE?si=ROBRCQyVPhLK
 
 ---
 
-## 📅 Day 1 – [Compeleted till Day-3 | Virtual Machines Part-1]
+## 📅 Day 1 – [Compeleted till : Day-3 | Virtual Machines Part-1]
 - ✅ Learned what DevOps is and its role in modern software delivery
 - ✅ Learned about SDLC Phases
 - ✅ Hands on Jira for creating epic and story
 - ✅ Learned difference between physical machines and virtual machines
 ---
+
+## 📅 Day 2 – [Compeleted till : Day- 5| AWS CLI Full Guide]
+- ✅ Learned cloud providers (AWS, AZURE) 
+- ✅ Created EC2 Instance in AWS and AZURE
+- ✅ Installed AWS CLI and connected with Root User
+- ✅ Tried various S3 and EC2 commands
+
 
 > ✅ Pushing daily progress to GitHub. Documenting everything for easy recall & sharing!
