@@ -17,5 +17,11 @@ Following the [DevOps Zero to Hero](https://youtu.be/Ou9j73aWgyE?si=ROBRCQyVPhLK
 - ✅ Installed AWS CLI and connected with Root User
 - ✅ Tried various S3 and EC2 commands
 
+## 📅 Day 3 – [Compeleted till : Day- 7| Live AWS Project]
+- ✅ Learned about Linux OS
+- ✅ Tested Linux Commands on GitBash (ls mkdir,nproc,free,top etc)
+- ✅ Learned more about shell scripting
+- ✅
+
 
 > ✅ Pushing daily progress to GitHub. Documenting everything for easy recall & sharing!
