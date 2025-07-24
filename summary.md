@@ -21,7 +21,8 @@ Following the [DevOps Zero to Hero](https://youtu.be/Ou9j73aWgyE?si=ROBRCQyVPhLK
 - ✅ Learned about Linux OS
 - ✅ Tested Linux Commands on GitBash (ls mkdir,nproc,free,top etc)
 - ✅ Learned more about shell scripting
-- ✅
+- ✅ Wrote 2-3 Programs in shellscript
+
 
 
 > ✅ Pushing daily progress to GitHub. Documenting everything for easy recall & sharing!
