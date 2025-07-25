@@ -20,8 +20,9 @@ Following the [DevOps Zero to Hero](https://youtu.be/Ou9j73aWgyE?si=ROBRCQyVPhLK
 ## 📅 Day 3 – [Compeleted till : Day- 7| Live AWS Project]
 - ✅ Learned about Linux OS
 - ✅ Tested Linux Commands on GitBash (ls mkdir,nproc,free,top etc)
-- ✅ Learned more about shell scripting
-- ✅ Wrote 2-3 Programs in shellscript
+- ✅ Learned more about shell scripting and wrote programs
+- ✅ Wrote a sript to get detials of aws resources
+- ✅ Integrated it with crontab to generate automated reports
 
 
 
