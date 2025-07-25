@@ -1,0 +1,64 @@
+AWS Resource Report - Fri Jul 25 10:01:47 UTC 2025
+------------------------------
+
+[S3 Buckets]
+2025-02-05 05:17:46 rushabhh-bucket
+2025-02-05 05:38:54 rushabhh-bucket2
+
+[EC2 Instances]
+"i-0e41d296b891f9275"
+
+[Lambda Functions]
+"randomPassGenerator"
+
+[IAM Users]
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "consoleuser",
+            "UserId": "AIDA4IM3HLGNB26JAVNBE",
+            "Arn": "arn:aws:iam::842676001178:user/consoleuser",
+            "CreateDate": "2025-03-12T05:01:01+00:00",
+            "PasswordLastUsed": "2025-03-12T05:01:35+00:00"
+        },
+        {
+            "Path": "/",
+            "UserName": "ec2user",
+            "UserId": "AIDA4IM3HLGNIYB4RVJHF",
+            "Arn": "arn:aws:iam::842676001178:user/ec2user",
+            "CreateDate": "2025-03-12T05:10:37+00:00",
+            "PasswordLastUsed": "2025-03-12T05:11:30+00:00"
+        },
+        {
+            "Path": "/",
+            "UserName": "user1",
+            "UserId": "AIDA4IM3HLGNCAV7WBLAA",
+            "Arn": "arn:aws:iam::842676001178:user/user1",
+            "CreateDate": "2025-03-12T05:16:48+00:00",
+            "PasswordLastUsed": "2025-03-12T05:29:37+00:00"
+        },
+        {
+            "Path": "/",
+            "UserName": "user2",
+            "UserId": "AIDA4IM3HLGNGU26TG7CN",
+            "Arn": "arn:aws:iam::842676001178:user/user2",
+            "CreateDate": "2025-03-12T05:17:23+00:00"
+        },
+        {
+            "Path": "/",
+            "UserName": "user3",
+            "UserId": "AIDA4IM3HLGNKT2TSMJOC",
+            "Arn": "arn:aws:iam::842676001178:user/user3",
+            "CreateDate": "2025-03-12T05:17:53+00:00"
+        },
+        {
+            "Path": "/",
+            "UserName": "user4",
+            "UserId": "AIDA4IM3HLGNBBGLKZU3N",
+            "Arn": "arn:aws:iam::842676001178:user/user4",
+            "CreateDate": "2025-03-12T05:18:28+00:00",
+            "PasswordLastUsed": "2025-03-12T05:19:40+00:00"
+        }
+    ]
+}
