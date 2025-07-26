@@ -28,6 +28,9 @@ Following the [DevOps Zero to Hero](https://youtu.be/Ou9j73aWgyE?si=ROBRCQyVPhLK
 ### 📅 Day 4 – [Compeleted till : Day- 10 | Git Branching Strategy]
 - ✅ Connected Github with shell script
 - ✅ Wrote a script to test the github api  
+- ✅ Stuided about Git and Github
+- ✅ Studied about version control
+
 
 
 
