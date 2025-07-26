@@ -25,5 +25,10 @@ Following the [DevOps Zero to Hero](https://youtu.be/Ou9j73aWgyE?si=ROBRCQyVPhLK
 - ✅ Integrated it with crontab to generate automated reports
 
 
+### 📅 Day 4 – [Compeleted till : Day- 10 | Git Branching Strategy]
+- ✅ Connected Github with shell script
+- ✅ Wrote a script to test the github api  
+
+
 
 > ✅ Pushing daily progress to GitHub. Documenting everything for easy recall & sharing!
